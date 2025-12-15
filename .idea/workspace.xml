@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3df160e0-878c-4d48-9524-e555712c9896" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Train_dataset.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/augmentations.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/augmentations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/voc_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/voc_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeplabv3plus.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplabv3plus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discriminator.py" beforeDir="false" afterPath="$PROJECT_DIR$/discriminator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figure/Graphical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figure/TreeSeg_Network.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figure/deeplab_discriminator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figure/tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metric.py" beforeDir="false" afterPath="$PROJECT_DIR$/metric.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/metric.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/metric.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2eotExg0lXfrhIORgXUUhaOGPFf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.1-8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1111111111111111111111111111.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1111111111111111111111111111111111.executor&quot;: &quot;Run&quot;,
+    &quot;Python.38-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WWW.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.deeplabv3plus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.erode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.evaluation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.evaluation—dilizuobiao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hebing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.img_cut.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python.metric1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pinjie.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tif jpg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.voc_dataset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xiugai biaoqian.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/UTB-finish/UTB_master/RA/IMG&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
+    <layout>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Commit_Guest" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3243146" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3302696" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.79840684" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="SciView" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.19759116" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+    </layout>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\UTB-finish\UTB_master\RA\IMG" />
+      <recent name="E:\UTB-finish\UTB_master\research area" />
+      <recent name="E:\UTB-finish\UTB_master\build\mytest111111" />
+      <recent name="E:\UTB-finish\UTB_master" />
+      <recent name="E:\UTB-finish\UTB_master\build" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\UTB-finish\UTB_master\research area\c-2" />
+      <recent name="E:\UTB-finish\UTB_master" />
+      <recent name="E:\UTB-finish\UTB_master\CY" />
+      <recent name="E:\UTB-finish\UTB_master\research area\c-3" />
+      <recent name="E:\UTB-finish\UTB_master\research area" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.11111">
+    <configuration name="11111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UTB_master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TTT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UTB_master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TTT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="metric" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UTB_master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/metric.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="metric1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UTB_master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/metric1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="metric2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UTB_master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/metric2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.metric1" />
+        <item itemvalue="Python.TTT" />
+        <item itemvalue="Python.metric2" />
+        <item itemvalue="Python.metric" />
+        <item itemvalue="Python.11111" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3df160e0-878c-4d48-9524-e555712c9896" name="Changes" comment="" />
+      <created>1712582653358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712582653358</updated>
+      <workItem from="1712582654729" duration="22528000" />
+      <workItem from="1727699299165" duration="1466000" />
+      <workItem from="1727771538403" duration="7854000" />
+      <workItem from="1728005759984" duration="6375000" />
+      <workItem from="1728305671899" duration="4000" />
+      <workItem from="1728477884059" duration="7000" />
+      <workItem from="1728877714690" duration="100000" />
+      <workItem from="1732189871891" duration="7296000" />
+      <workItem from="1732263012048" duration="5117000" />
+      <workItem from="1732341022945" duration="5000" />
+      <workItem from="1732535298708" duration="7668000" />
+      <workItem from="1732621653823" duration="958000" />
+      <workItem from="1732628846893" duration="7439000" />
+      <workItem from="1732756629531" duration="3882000" />
+      <workItem from="1732946840550" duration="2148000" />
+      <workItem from="1732949039204" duration="342000" />
+      <workItem from="1732949618202" duration="8429000" />
+      <workItem from="1733208638615" duration="6491000" />
+      <workItem from="1733640495374" duration="7402000" />
+      <workItem from="1733722627220" duration="7436000" />
+      <workItem from="1733792778908" duration="2440000" />
+      <workItem from="1733834166621" duration="654000" />
+      <workItem from="1733883484372" duration="3384000" />
+      <workItem from="1733895162982" duration="15000" />
+      <workItem from="1733906502772" duration="3370000" />
+      <workItem from="1733967159319" duration="18269000" />
+      <workItem from="1734052186628" duration="5355000" />
+      <workItem from="1734241693793" duration="758000" />
+      <workItem from="1734246792829" duration="7962000" />
+      <workItem from="1734271804270" duration="26628000" />
+      <workItem from="1734487000640" duration="878000" />
+      <workItem from="1736130301851" duration="2691000" />
+      <workItem from="1736234164892" duration="15000" />
+      <workItem from="1736413261843" duration="3013000" />
+      <workItem from="1736495394321" duration="1170000" />
+      <workItem from="1736498063477" duration="16000" />
+      <workItem from="1736512935817" duration="1621000" />
+      <workItem from="1736817213701" duration="7997000" />
+      <workItem from="1737094136295" duration="595000" />
+      <workItem from="1737201746500" duration="872000" />
+      <workItem from="1737205444333" duration="594000" />
+      <workItem from="1737991996664" duration="1276000" />
+      <workItem from="1738639927272" duration="5033000" />
+      <workItem from="1740146393269" duration="3668000" />
+      <workItem from="1740207467940" duration="3625000" />
+      <workItem from="1740313339492" duration="19461000" />
+      <workItem from="1740574142600" duration="397000" />
+      <workItem from="1740658655203" duration="1417000" />
+      <workItem from="1742956520717" duration="64000" />
+      <workItem from="1743085648143" duration="280000" />
+      <workItem from="1743129085581" duration="18008000" />
+      <workItem from="1743343332621" duration="1141000" />
+      <workItem from="1743405292237" duration="2618000" />
+      <workItem from="1743586097812" duration="1215000" />
+      <workItem from="1744032767261" duration="7520000" />
+      <workItem from="1746595525919" duration="17972000" />
+      <workItem from="1747014924955" duration="7000" />
+      <workItem from="1747185645272" duration="13408000" />
+      <workItem from="1747621102950" duration="50000" />
+      <workItem from="1748573852356" duration="10530000" />
+      <workItem from="1749540498224" duration="26603000" />
+      <workItem from="1750065320224" duration="1098000" />
+      <workItem from="1750067056762" duration="2189000" />
+      <workItem from="1750079168863" duration="8000" />
+      <workItem from="1750497567719" duration="1893000" />
+      <workItem from="1750504682001" duration="1564000" />
+      <workItem from="1750514937644" duration="13000" />
+      <workItem from="1755598888263" duration="4197000" />
+      <workItem from="1756217527302" duration="57000" />
+      <workItem from="1757318163026" duration="809000" />
+      <workItem from="1761708647177" duration="1337000" />
+      <workItem from="1762239812036" duration="1635000" />
+      <workItem from="1762491612219" duration="594000" />
+      <workItem from="1762586898861" duration="594000" />
+      <workItem from="1765785036479" duration="653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anacnconda/install/envs/mytorch/Lib/site-packages/imgviz/label.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/labelme change.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anacnconda/install/envs/mytorch/Lib/site-packages/imgviz/label.py</url>
+          <line>130</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anacnconda/install/envs/mytorch/Lib/site-packages/labelme/utils/shape.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/Ydatasets/24-8.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/Ydatasets/24-8.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/evaluation.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/voc_dataset.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/metric2.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/voc_dataset.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/voc_dataset.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deeplabv3plus.py</url>
+          <line>337</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deeplabv3plus.py</url>
+          <line>612</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/WWW.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/metric1.py</url>
+          <line>202</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/WWW.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deeplabv3plus.py</url>
+          <line>152</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train.py</url>
+          <line>502</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train.py</url>
+          <line>274</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="i" language="Python" />
+        <watch expression="img_path" />
+        <watch expression="img.decoderconfig" />
+        <watch expression="i.min" />
+        <watch expression="THRESHOLD_VALUE" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UTB_master$evaluationdilizuobiao.coverage" NAME="evaluation—dilizuobiao 覆盖结果" MODIFIED="1736415471743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTB_master$pinjie.coverage" NAME="pinjie 覆盖结果" MODIFIED="1750505026093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/Ydatasets" />
+    <SUITE FILE_PATH="coverage/UTB_master$1111111111111111111111111111111111.coverage" NAME="1111111111111111111111111111111111 覆盖结果" MODIFIED="1747205796645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTB_master$WWW.coverage" NAME="WWW 覆盖结果" MODIFIED="1746707102385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTB_master$38_1.coverage" NAME="38-1 覆盖结果" MODIFIED="1746707569650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTB_master$voc_dataset.coverage" NAME="voc_dataset 覆盖结果" MODIFIED="1750067264299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/UTB_master$evaluation.coverage" NAME="evaluation 覆盖结果" MODIFIED="1750067421529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTB_master$img_cut.coverage" NAME="img_cut 覆盖结果" MODIFIED="1750497618977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/Ydatasets" />
+    <SUITE FILE_PATH="coverage/UTB_master$list_name.coverage" NAME="list_name 覆盖结果" MODIFIED="1750065483918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/Ydatasets" />
+  </component>
+</project>
