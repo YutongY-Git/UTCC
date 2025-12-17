@@ -32,7 +32,7 @@ Download our pretrained model:Canopy segmentation.pth is the weight for tree can
 https://drive.google.com/drive/folders/1gb-YmrIt7odIPISsmyJE7rlOXu9P72iL?usp=sharing
 # Our datasets (Download from Google drive)
 https://drive.google.com/drive/folders/1e05a5CW8ETXhn6iThyvaiD9CxkbNK3xK?usp=sharing
-# our results
+# Our results
 ![Figure 15 ](https://github.com/user-attachments/assets/35089e53-f15e-4ab6-a00d-01f4f6c1eb33)
 # Acknowledgement
 This research  based on the code of  :https://github.com/nkszjx/UTB_master
