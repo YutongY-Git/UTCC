@@ -14,12 +14,19 @@ This is the pytorch codes for our paper:"Accounting for Shadows in Urban Canopy 
 -pandas=2.0
 
 -scipy=1.9
+
 -scikit-learn=1.3
+
 -matplotlib=3.7
+
 -seaborn=0.13
+
 -gdal=3.6
+
 -rasterio=1.3
+
 -geopandas=0.13
+
 # weight 
 Download our pretrained model:Canopy segmentation.pth is the weight for tree canopy extraction, while resnet101.pth is the weight of the pre-trained model obtained from the official website.
 https://drive.google.com/drive/folders/1gb-YmrIt7odIPISsmyJE7rlOXu9P72iL?usp=sharing
