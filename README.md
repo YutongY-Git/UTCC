@@ -17,7 +17,8 @@ pip:
 -rasterio=1.3
 -geopandas=0.13
 # weight 
-Download our pretrained model:
+Download our pretrained model:Canopy segmentation.pth is the weight for tree canopy extraction, while resnet101.pth is the weight of the pre-trained model obtained from the official website.
+https://drive.google.com/drive/folders/1gb-YmrIt7odIPISsmyJE7rlOXu9P72iL?usp=sharing
 # Our datasets (Download from Google drive)
 https://drive.google.com/drive/folders/1e05a5CW8ETXhn6iThyvaiD9CxkbNK3xK?usp=sharing
 # our results
